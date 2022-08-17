@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
+      "projectUniqueName": "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
       "projectName": "degisken",
-      "projectPath": "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "G:\\Drive'ım\\patika\\CSharp\\degisken\\obj\\",
+      "projectPath": "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "J:\\Drive'ım\\patika\\CSharp\\degisken\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

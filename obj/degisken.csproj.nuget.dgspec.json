@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj": {}
+    "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj": {}
   },
   "projects": {
-    "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj": {
+    "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
+        "projectUniqueName": "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
         "projectName": "degisken",
-        "projectPath": "G:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "G:\\Drive'ım\\patika\\CSharp\\degisken\\obj\\",
+        "projectPath": "J:\\Drive'ım\\patika\\CSharp\\degisken\\degisken.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "J:\\Drive'ım\\patika\\CSharp\\degisken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
